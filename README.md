@@ -1,5 +1,5 @@
 # 🌡️ ThermoGuard - Real-Time Temperature Monitor
-
+ 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![Windows](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
